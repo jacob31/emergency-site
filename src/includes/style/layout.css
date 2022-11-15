@@ -33,6 +33,6 @@ html {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items:flex-end;
-    background-color: #F0F0F0;
+    background-color: var(--brand-color);
     border-top: 1px solid #D4D4D4;
 }
