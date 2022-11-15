@@ -14,7 +14,7 @@ module.exports = {
     url: META_URL || '',
     description: META_DESC || 'Seeking the Beatitudes.',
     lang: META_LANG || 'en',
-    primaryColor: META_COLOR || '#dadada',
+    primaryColor: META_COLOR || '#708090',
     email: META_EMAIL || undefined,
     telephone: META_TELEPHONE || undefined,
     dateFormat: 'dd LLLL yyyy'
